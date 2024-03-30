@@ -1,4 +1,4 @@
-package org.example.demo1;
+package demo;
 
 public class SingletonClass {
     //declare a private static final variable creating an instance of class(object).

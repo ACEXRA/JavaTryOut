@@ -1,4 +1,4 @@
-package org.example.demo1;
+package demo;
 
 public class StaticBlock {
     //static block runs before main method

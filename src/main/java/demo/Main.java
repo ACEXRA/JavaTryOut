@@ -1,4 +1,4 @@
-package org.example.demo1;
+package demo;
 
 public class Main {
     //static and public - specifiers which can be in ay order

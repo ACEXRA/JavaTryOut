@@ -1,4 +1,4 @@
-package org.example.demo1;
+package demo;
 
 public class SingletonClassMain {
     public static void main(String[] args) {
