@@ -1,6 +1,6 @@
 package demo;
 
-public class ClonableInterface implements Cloneable {
+public class ClonableInterface implements Cloneable{
     int i;
     String s;
     //clonable and serialisable are the only interfaces with no abstract method in it.

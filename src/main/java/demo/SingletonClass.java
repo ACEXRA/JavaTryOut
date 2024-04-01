@@ -1,5 +1,6 @@
 package demo;
 
+//Singleton class is a class which has one single instance of its class at given time at given JVM
 public class SingletonClass {
     //declare a private static final variable creating an instance of class(object).
     private static final SingletonClass instance=new SingletonClass();
